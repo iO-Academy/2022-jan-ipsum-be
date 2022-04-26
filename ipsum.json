@@ -1,0 +1,835 @@
+[{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce2"
+  },
+  "word": "Siamese Fighting Fish",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce3"
+  },
+  "word": "Komodo Dragons",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce4"
+  },
+  "word": "Hyper Lynx",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce5"
+  },
+  "word": "Agile Aardvarks",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce6"
+  },
+  "word": "Fighting Mongooses",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce7"
+  },
+  "word": "Koalas",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce8"
+  },
+  "word": "Mountain Goats",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ce9"
+  },
+  "word": "Naked Mole-rats",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cea"
+  },
+  "word": "Swimming Sloths",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ceb"
+  },
+  "word": "Fried Egg Jellyfish",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cec"
+  },
+  "word": "Geckos",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52ced"
+  },
+  "word": "Honey Badgers",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cee"
+  },
+  "word": "Royal Penguins",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cef"
+  },
+  "word": "Neal",
+  " category": " trainers"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf0"
+  },
+  "word": "Charlie",
+  " category": " trainers"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf1"
+  },
+  "word": "Mike",
+  " category": " trainers"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf2"
+  },
+  "word": "Cuthbert",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf3"
+  },
+  "word": "Git",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf4"
+  },
+  "word": "JavaScript",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf5"
+  },
+  "word": "PHP",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf6"
+  },
+  "word": "Node",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf7"
+  },
+  "word": "React",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf8"
+  },
+  "word": "Express",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cf9"
+  },
+  "word": "Scrum",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cfa"
+  },
+  "word": "Gerbert",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cfb"
+  },
+  "word": "DiKnow",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cfc"
+  },
+  "word": "99",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cfd"
+  },
+  "word": "Sophie",
+  " category": " trainers"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cfe"
+  },
+  "word": "Ash",
+  " category": " trainers"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52cff"
+  },
+  "word": "Norbert",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d00"
+  },
+  "word": "SWGOL",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d01"
+  },
+  "word": "Raurie",
+  " category": " trainers"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d02"
+  },
+  "word": "Marcus",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d03"
+  },
+  "word": "Ethan",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d04"
+  },
+  "word": "Emilia",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d05"
+  },
+  "word": "Jordan",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d06"
+  },
+  "word": "Grace",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d07"
+  },
+  "word": "Ma Ma Ma Maowwww",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d08"
+  },
+  "word": "Herbert",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d09"
+  },
+  "word": "Hugo McBiscuits",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d0a"
+  },
+  "word": "Mr Shadow",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d0b"
+  },
+  "word": "There's some prop f**ckery going on here",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d0c"
+  },
+  "word": "Well volunteered",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d0d"
+  },
+  "word": "AOB",
+  " category": " development "
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d0e"
+  },
+  "word": "verbose",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d0f"
+  },
+  "word": "OhMyZsh",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d10"
+  },
+  "word": "mkdir",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d11"
+  },
+  "word": "prump",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d12"
+  },
+  "word": "prump prump prump it up",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d13"
+  },
+  "word": "echo",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d14"
+  },
+  "word": "Hello World!",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d15"
+  },
+  "word": "var_dump",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d16"
+  },
+  "word": "cd",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d17"
+  },
+  "word": "chmod",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d18"
+  },
+  "word": "rm -rf",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d19"
+  },
+  "word": "nano",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d1a"
+  },
+  "word": "git checkout",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d1b"
+  },
+  "word": "git stash pop",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d1c"
+  },
+  "word": "first child",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d1d"
+  },
+  "word": "div",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d1e"
+  },
+  "word": "rem",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d1f"
+  },
+  "word": "repo",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d20"
+  },
+  "word": "git fetch",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d21"
+  },
+  "word": "pull request",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d22"
+  },
+  "word": "gitignore",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d23"
+  },
+  "word": "the shadow DOM",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d24"
+  },
+  "word": "npm",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d25"
+  },
+  "word": "fave food => pizza",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d26"
+  },
+  "word": "Larry",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d27"
+  },
+  "word": "Garry",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d28"
+  },
+  "word": "Barry",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d29"
+  },
+  "word": "conditional rendering",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d2a"
+  },
+  "word": "golden hammer",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d2b"
+  },
+  "word": "god class",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d2c"
+  },
+  "word": "Norbert",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d2d"
+  },
+  "word": "dog => Luigi",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d2e"
+  },
+  "word": "AddJarOfPickles",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d2f"
+  },
+  "word": "iO Academy",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d30"
+  },
+  "word": "Falcon",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d31"
+  },
+  "word": "Black Widow",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d32"
+  },
+  "word": "Storm",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d33"
+  },
+  "word": "Batman",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d34"
+  },
+  "word": "Main Bedroom",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d35"
+  },
+  "word": "Iron Man",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d36"
+  },
+  "word": "Dr Jean Grey",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d37"
+  },
+  "word": "Valkyrie",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d38"
+  },
+  "word": "terminal",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d39"
+  },
+  "word": "1 Widcombe Crescent",
+  " category": " academy"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d3a"
+  },
+  "word": "Word Nerd",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d3b"
+  },
+  "word": "Dino Finder",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d3c"
+  },
+  "word": "Sami",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d3d"
+  },
+  "word": "Luke",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d3e"
+  },
+  "word": "Gabriel",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d3f"
+  },
+  "word": "Rayna like China",
+  " category": " trainers"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d40"
+  },
+  "word": "Certified Scrum Master",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d41"
+  },
+  "word": "playing with Lego",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d42"
+  },
+  "word": "The Agile Manifesto",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d43"
+  },
+  "word": "Chi-Ca-Go",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d44"
+  },
+  "word": "Product Owner",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d45"
+  },
+  "word": "T-Shaped Profiles",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d46"
+  },
+  "word": "Definition of Done",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d47"
+  },
+  "word": "PHPStan",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d48"
+  },
+  "word": "Sprint Review",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d49"
+  },
+  "word": "Burndown Chart",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d4a"
+  },
+  "word": "Mario Kart",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d4b"
+  },
+  "word": "mouse",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d4c"
+  },
+  "word": "click",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d4d"
+  },
+  "word": "nodes",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d4e"
+  },
+  "word": "async",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d4f"
+  },
+  "word": "defer",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d50"
+  },
+  "word": "MongoDB",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d51"
+  },
+  "word": "Foxy Ferrets",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d52"
+  },
+  "word": "Dung Beetles",
+  " category": " cohorts"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d53"
+  },
+  "word": "trial by paper",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d54"
+  },
+  "word": "do the thing",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d55"
+  },
+  "word": "response",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d56"
+  },
+  "word": "request",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d57"
+  },
+  "word": "LAMP",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d58"
+  },
+  "word": "MERN",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d59"
+  },
+  "word": "Bootstrap",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d5a"
+  },
+  "word": "pancake-chef factories",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d5b"
+  },
+  "word": "JSON Statham",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d5c"
+  },
+  "word": "array",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d5d"
+  },
+  "word": "string",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d5e"
+  },
+  "word": "object",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d5f"
+  },
+  "word": "null",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d60"
+  },
+  "word": "NaN",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d61"
+  },
+  "word": "boolean",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d62"
+  },
+  "word": "undefined",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d63"
+  },
+  "word": "squeaky shoes",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d64"
+  },
+  "word": "salty popcorn",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d65"
+  },
+  "word": "mouldy apple",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d66"
+  },
+  "word": "motivational poem",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d67"
+  },
+  "word": "spicy standups",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d68"
+  },
+  "word": "nice orange",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d69"
+  },
+  "word": "rubber ducking",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d6a"
+  },
+  "word": "hard refresh",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d6b"
+  },
+  "word": "task miles",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "6267c5aa9e85090871d52d6c"
+  },
+  "word": "komodo dragon on a skateboard (not blind)",
+  " category": " dragons"
+}]
