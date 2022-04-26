@@ -1,11 +1,4 @@
-const express = require('express');
-const cors = require('cors');
-const routes = require('./Config/Routes');
+const app = require('./app');
 
-const app = express();
-app.use(express.json());
-app.use(cors());
-
-routes(app);
-
-module.exports = app;
+const port = 3000;
+app.listen(port);
