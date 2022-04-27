@@ -1,12 +1,12 @@
 const arrayToParagraph = (wordsArray) => {
     function getRandomInt(min, max) {
-        min = Math.ceil(min);
-        max = Math.floor(max);
+        min = Math.ceil(min)
+        max = Math.floor(max)
         return Math.floor(Math.random() * (max - min + 1) + min)
     }
 
     const arrayToSentence = (wordsArray) => {
-        let sentenceString = "";
+        let sentenceString = ""
         let wordNum = getRandomInt(6, 12)
         let i = 1
         let sentence = []
@@ -19,20 +19,20 @@ const arrayToParagraph = (wordsArray) => {
         }
 
         sentence.map((document) => {
-            let random_boolean = Math.random() < 0.1;
+            let random_boolean = Math.random() < 0.1
             //if random_boolean is true (10% chance) use a comma space separator, if not use a space
-            let separator = random_boolean ? ", " : " ";
-            sentenceString += document.word + separator;
-        });
+            let separator = random_boolean ? ", " : " "
+            sentenceString += document.word + separator
+        })
 
         //Capitalise first letter of string
-        let result = sentenceString.charAt(0).toUpperCase() + sentenceString.slice(1);
+        let result = sentenceString.charAt(0).toUpperCase() + sentenceString.slice(1)
 
         //Remove any comma separator at end of string
-        result = result.replace(/(, )$/, "");
+        result = result.replace(/(, )$/, "")
 
         //Return result with surrounding whitespace trimmed and full stop added to end
-        return result.trim() + ". ";
+        return result.trim() + ". "
     }
 
     let paraString = ''
@@ -45,8 +45,6 @@ const arrayToParagraph = (wordsArray) => {
     }
 
     return paraString
-
-    // return arrayToSentence(wordsArray)
 }
 
-module.exports.arrayToParagraph = arrayToParagraph;
+module.exports.arrayToParagraph = arrayToParagraph

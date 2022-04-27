@@ -12,4 +12,4 @@ const JsonResponseService = (
     }
 }
 
-module.exports = JsonResponseService;
+module.exports = JsonResponseService
