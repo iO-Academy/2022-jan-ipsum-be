@@ -1,5 +1,5 @@
 const getIpsumService = async (collection) => {
-    return await collection.find({}).toArray();
+    return await collection.find({}).toArray()
 }
 
-module.exports = getIpsumService;
+module.exports = getIpsumService
