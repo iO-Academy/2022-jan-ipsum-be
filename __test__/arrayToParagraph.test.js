@@ -2,6 +2,6 @@ const arrayToParagraph = require('../Services/ParagraphService')
 
 describe('arrayToParagraph', () => {
     test('Creates a random paragraph', () => {
-        expect()
+        expect(typeof arrayToParagraph).toBe("object")
     })
 })
