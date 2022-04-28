@@ -20,7 +20,7 @@ const getIpsum = async (req, res) => {
     let result = multipleParagraphs(paragraphs, data)
 
     let apiResponse = result.length
-        ? JsonResponse(result, true, 'Success- results found')
+        ? JsonResponse(result, true, "Success- results found")
         : JsonResponse()
 
     res.json(apiResponse)
