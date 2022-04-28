@@ -1,7 +1,7 @@
 const JsonResponseService = (
     data = [],
     success = false,
-    message = 'Something went wrong- No results',
+    message = "Something went wrong- No results",
     status = 200
 ) => {
     return {

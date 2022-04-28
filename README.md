@@ -34,7 +34,17 @@ That's it! Now install the [front end](https://github.com/iO-Academy/2022-jan-ip
 
 This API only supports GET requests.
 
-### Return
+Bad requests will return the following error:
+```json
+{
+      "success": false,
+      "message": "Bad request- method not allowed",
+      "status": 200,
+      "data": []
+    }
+```
+
+### Return paragraphs of ipsum text
 
 * **URL**
 
@@ -80,8 +90,20 @@ This API only supports GET requests.
     ```json
     {
       "success": false,
-      "message": 'Something went wrong- No results',
+      "message": "Something went wrong- No results",
       "status": 200,
       "data": []
     }
     ```
+
+
+---
+* **Example call:**
+```javascript
+const getIpsumData = async () => {
+        const response = await fetch('http://localhost:3002/ipsum')
+        let result = await response.json()
+
+        return result.data
+    }
+```
