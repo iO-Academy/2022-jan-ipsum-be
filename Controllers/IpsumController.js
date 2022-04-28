@@ -10,6 +10,11 @@ const getIpsum = async (req, res) => {
         paragraphs = req.query.paragraphs
     }
 
+    if (req.query.paragraphs && !(req.query.paragraphs >= 1 && req.query.paragraphs <= 10)) {
+        let apiResponse = JsonResponse([], false, 'Please pick a number between 1 and 10');
+         return res.json(apiResponse)
+    }
+
     let collection = await DbService('ipsum')
     let data = await getIpsumService(collection)
     let result = multipleParagraphs(paragraphs, data)
