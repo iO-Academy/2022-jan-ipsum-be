@@ -6,7 +6,7 @@ const {multipleParagraphs} = require("../Services/ParagraphService")
 const getIpsum = async (req, res) => {
     let paragraphs = 1
 
-    if (req.query.paragraphs) {
+    if (req.query.paragraphs && (req.query.paragraphs >= 1 && req.query.paragraphs <= 10)) {
         paragraphs = req.query.paragraphs
     }
 
