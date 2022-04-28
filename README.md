@@ -12,13 +12,13 @@ git clone git@github.com:iO-Academy/2022-jan-ipsum-be.git
 ```
 
 Once cloned, first install the database stored in the project root.
-Create a MongoDB database named `io-academipsum`, then create a new collection called `ipsum` and import the `words.json` file.
+Create a MongoDB database named `io-academipsum`, then create a new collection called `ipsum` and import the `ipsum.json` file.
 
 To run the application locally:
 ```bash
 npm i
 ```
-```angular2html
+```bash
 node start.js
 ```
 
@@ -37,11 +37,11 @@ This API only supports GET requests.
 Bad requests will return the following error:
 ```json
 {
-      "success": false,
-      "message": "Bad request- method not allowed",
-      "status": 200,
-      "data": []
-    }
+  "success": false,
+  "message": "Bad request- method not allowed",
+  "status": 200,
+  "data": []
+}
 ```
 
 ### Return paragraphs of ipsum text
@@ -63,6 +63,15 @@ Bad requests will return the following error:
   **Optional:**
 
   `paragraphs=[integer]` - The number of randomly generated paragraphs to return.
+  * Parameter value must be in the range of 1 to 10, or the following error will be returned:
+    ```json
+    {
+    "success": false,
+    "message": "Please pick a number between 1 and 10",
+    "status": 200,
+    "data": []
+    }
+    ```
 
   **Example:**
 
@@ -101,9 +110,21 @@ Bad requests will return the following error:
 * **Example call:**
 ```javascript
 const getIpsumData = async () => {
-        const response = await fetch('http://localhost:3002/ipsum')
-        let result = await response.json()
+    const response = await fetch('http://localhost:3002/ipsum')
+    let result = await response.json()
 
-        return result.data
-    }
+    return result.data
+}
 ```
+
+
+
+## Authors
+
+Ethan Garrett - [@EthanGarrett](https://github.com/ethan-garrett)
+
+Grace Palacz - [@Grace-P-03](https://github.com/grace-p-03)
+
+Jordan Addis - [@J-Add](https://github.com/j-add)
+
+Marcus Drury - [@Marcus12934](https://github.com/Marcus12934)
