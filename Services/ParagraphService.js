@@ -4,12 +4,22 @@ const arrayToParagraph = (wordsArray) => {
     let sentenceNum = getRandomInt(6, 8)
 
     let i = 1
-    while (i < sentenceNum) {
-
-        paraString += arrayToSentence(wordsArray)
-        i++
-    }
+        while (i < sentenceNum) {
+            paraString += arrayToSentence(wordsArray)
+            i++
+        }
     return paraString
+}
+
+const multipleParagraphs = (numberOfParagraphs, wordsArray) => {
+    let i = 1
+    let paraArray = []
+
+    while (i <= numberOfParagraphs) {
+        paraArray.push(arrayToParagraph(wordsArray))
+        i ++
+    }
+    return paraArray
 }
 
 const getRandomInt = (min, max) => {
@@ -48,4 +58,4 @@ const arrayToSentence = (wordsArray) => {
     return result.trim() + ". "
 }
 
-module.exports.arrayToParagraph = arrayToParagraph
+module.exports.multipleParagraphs = multipleParagraphs
