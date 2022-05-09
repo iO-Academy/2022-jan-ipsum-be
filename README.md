@@ -1,5 +1,7 @@
 # iO Academipsum RESTful API
 
+Live demo - https://api.2022-academipsum.dev.io-academy.uk/ipsum
+
 <details>
 <summary>Run the API locally</summary>
 
