@@ -1,5 +1,7 @@
 # iO Academipsum RESTful API
 
+Live demo - https://api.2022-academipsum.dev.io-academy.uk/ipsum
+
 <details>
 <summary>Run the API locally</summary>
 
@@ -14,12 +16,12 @@ git clone git@github.com:iO-Academy/2022-jan-ipsum-be.git
 Once cloned, first install the database stored in the project root.
 Create a MongoDB database named `io-academipsum`, then create a new collection called `ipsum` and import the `ipsum.json` file.
 
-To run the application locally:
+To run the application locally, `cd` into the root directory and run the following commands:
 ```bash
 npm i
 ```
 ```bash
-node start.js
+npm start
 ```
 
 **Do not close this terminal tab, it is a running process.**

@@ -248,7 +248,7 @@
   "_id": {
     "$oid": "6267c5aa9e85090871d52d0b"
   },
-  "word": "There's some prop f**ckery going on here",
+  "word": "There's some prop f*ckery going on here",
   " category": " dragons"
 },{
   "_id": {
@@ -831,5 +831,41 @@
     "$oid": "6267c5aa9e85090871d52d6c"
   },
   "word": "komodo dragon on a skateboard (not blind)",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "626ab6249e85090871d52d6f"
+  },
+  "word": "bounce by the ounce",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "626ab6d19e85090871d52d70"
+  },
+  "word": "separation of concern",
+  " category": " development"
+},{
+  "_id": {
+    "$oid": "626ab6e99e85090871d52d71"
+  },
+  "word": "syntactical sugar",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "626ab7159e85090871d52d72"
+  },
+  "word": "careless whisper",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "626ab73c9e85090871d52d73"
+  },
+  "word": "Manhattan Burgers",
+  " category": " dragons"
+},{
+  "_id": {
+    "$oid": "626ab7ab9e85090871d52d74"
+  },
+  "word": "The dungeon",
   " category": " dragons"
 }]
