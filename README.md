@@ -119,6 +119,9 @@ const getIpsumData = async () => {
 }
 ```
 
+## Example Projects
+
+React Lorem Ipsum Generator - https://github.com/iO-Academy/2022-jan-ipsum-fe
 
 
 ## Authors
